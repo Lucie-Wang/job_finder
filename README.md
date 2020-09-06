@@ -20,7 +20,12 @@ Key features:
 </ul>
 
 <div align="center">
+
 ![Job Finder Demo Part I](./job_finder_demo_I.gif)
 
+</div>
+<div align="center">
+
 ![Job Finder Demo Part II](./job_finder_demo_II.gif)
+
 </div>
