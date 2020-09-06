@@ -11,6 +11,6 @@ Here are what I did for this project:
 <li>Realized personalized job recommendations by extracting keywords from job descriptions (Monkey Learn API), acquiring user geo location and implementing a content-based algorithm</li>
 </ul>
 
-![Job Finder Demo](https://gifs.com/gif/job-finder-demo-YW8pv0)
+![Job Finder Demo](./job_finder_demo_I.gif)
 
-![Job Finder Demo](https://gifs.com/gif/job-finder-demo-ii-xngqvJ)
+![Job Finder Demo](./job_finder_demo_II.gif)
