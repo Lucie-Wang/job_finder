@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Jupiter MySQL" uuid="92b51ca9-27af-414c-a005-ce3477b06946">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject-instance.ccdiylcj6fmy.us-west-1.rds.amazonaws.com:3306/laiproject</jdbc-url>
+    </data-source>
+  </component>
+</project>
