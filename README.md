@@ -11,6 +11,21 @@ Here are what I did for this project:
 <li>Realized personalized job recommendations by extracting keywords from job descriptions (Monkey Learn API), acquiring user geo location and implementing a content-based algorithm</li>
 </ul>
 
-![Job Finder Demo](https://gifs.com/gif/job-finder-demo-YW8pv0)
+Key features:
+<ul>
+  <li>Fully functional user registration, login, logout with encrpted password and front-end validations</li>
+  <li>Ability to search jobs nearby using browser geo-location or IP address location info with GitHub Job API</li>
+  <li>Cool feature of favorating/liking and unfavorating/unliking jobs</li>
+  <li>Personalized job recommendations based on location info and job description keyword extraction supported by Monkey Learn API and self-written content based algorithm</li>
+</ul>
 
-![Job Finder Demo](https://gifs.com/gif/job-finder-demo-ii-xngqvJ)
+<div align="center">
+
+![Job Finder Demo Part I](./job_finder_demo_I.gif)
+
+</div>
+<div align="center">
+
+![Job Finder Demo Part II](./job_finder_demo_II.gif)
+
+</div>
