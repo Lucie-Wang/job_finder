@@ -1,6 +1,7 @@
 # job_finder
 
-Job Finder is an interactive web application allowing users to search for and apply to available jobs and receive personalized recommendations based on user inputs.
+Job Finder is an interactive web application allowing users to search for available jobs nearby, favorite/unfavorite jobs and receive personalized recommendations based on user favorite history and location info. 
+
 <p>As an aspiring software engineer, it is not easy to take the first step in the job market, especially under the current circumstances. I would like to practice my skills in recommendation algorithsms and the fundamentals in Java, MySQL based back-end and HTML/CSS/JavaScript based front-end.
 We have many amazing and convenient frameworks to use today but it is very important to be able to write "raw" code and understand the logic in the pure lanaguages.</p>
 
