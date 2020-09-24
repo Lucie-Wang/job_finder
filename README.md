@@ -12,7 +12,7 @@ Here are what I did for this project:
 <li>Realized personalized job recommendations by extracting keywords from job descriptions (Monkey Learn API), acquiring user geo location and implementing a content-based algorithm</li>
 </ul>
 
-Key features:
+<strong>Key features</strong>:
 <ul>
   <li>Fully functional user registration, login, logout with encrpted password and front-end validations</li>
   <li>Ability to search jobs nearby using browser geo-location or IP address location info with GitHub Job API</li>
