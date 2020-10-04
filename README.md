@@ -5,6 +5,17 @@ Job Finder is an interactive web application allowing users to search for availa
 <p>As an aspiring software engineer, it is not easy to take the first step in the job market, especially under the current circumstances. I would like to practice my skills in recommendation algorithsms and the fundamentals in Java, MySQL based back-end and HTML/CSS/JavaScript based front-end.
 We have many amazing and convenient frameworks to use today but it is very important to be able to write "raw" code and understand the logic in the pure lanaguages.</p>
 
+<div align="center">
+
+![Job Finder Demo Part I](./job_finder_demo_I.gif)
+
+</div>
+<div align="center">
+
+![Job Finder Demo Part II](./job_finder_demo_II.gif)
+
+</div>
+
 Here are what I did for this project:
 <ul>
 <li>Built from scratch the front-end web development by implementing HTML, CSS, JavaScript, wire framing user flow, designing database, and test functionality to troubleshoot</li>
@@ -20,13 +31,4 @@ Here are what I did for this project:
   <li>Personalized job recommendations based on location info and job description keyword extraction supported by Monkey Learn API and self-written content based algorithm</li>
 </ul>
 
-<div align="center">
-
-![Job Finder Demo Part I](./job_finder_demo_I.gif)
-
-</div>
-<div align="center">
-
-![Job Finder Demo Part II](./job_finder_demo_II.gif)
-
-</div>
+**✍ Author: Lucie Wang** - [https://github.com/Lucie-Wang](https://github.com/Lucie-Wang)
